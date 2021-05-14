@@ -3,7 +3,7 @@
 // Dinajpur, Bangladesh
 // 14/05/2020
 //
-// Algorithm used to create Lightning was taken from Jared Tarbell's Self-dividing Line { http://www.complexification.net/gallery/machines/selfdividingline/ }
+// Algorithm used to create Lightning pattern was taken from Jared Tarbell's Self-dividing Line { http://www.complexification.net/gallery/machines/selfdividingline/ }
 // click and drag to make lightning pattern
 
 PVector pos, pPos;
@@ -47,7 +47,7 @@ void mouseReleased()
   }
 }
 
-// gen = branch generation, angle = branch angle, len = branch length
+// gen = branch generation, angle = branch angle, len = branch length, strWght = strokeWeight
 void lightning(int gen, float x1, float y1, float x2, float y2, float angle, float len, float strWght)
 { 
   // adjust the lightning stroke and color
