@@ -1,7 +1,7 @@
 // Lightning
 // Rakib Ahsan
 // Dinajpur, Bangladesh
-// 14/05/2020
+// 14/05/2021
 //
 // Algorithm used to create Lightning pattern was taken from Jared Tarbell's Self-dividing Line { http://www.complexification.net/gallery/machines/selfdividingline/ }
 // click and drag to make lightning pattern
