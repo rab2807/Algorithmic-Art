@@ -1,3 +1,9 @@
+// Pilgrimage, variation C
+// Rakib Ahsan
+// Dinajpur, Bangladesh
+// 02/08/2021
+
+
 float[][] angles;
 int unit = 10;
 int num = 1000;
