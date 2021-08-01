@@ -1,2 +1,2 @@
 # Algorithmic-Art
-Generative arts using Processing
+Generative arts using Processing.
