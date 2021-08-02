@@ -11,7 +11,7 @@ Lightning
 
 Pilgrimage
 ---
-Variation A: \ \
+Variation A: \\
 ![](https://github.com/rab2807/Algorithmic-Art/blob/main/Pilgrimage/10760.jpg)
 
 Variation B: \ \
