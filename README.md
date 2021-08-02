@@ -3,7 +3,7 @@ Generative arts using Processing.
 
 Flow
 ---
-<img src="https://github.com/rab2807/Algorithmic-Art/blob/main/Flow/preview.jpg"  width="400"/> 
+<img src="https://github.com/rab2807/Algorithmic-Art/blob/main/Flow/preview.jpg"  width="400"/> <img src="https://github.com/rab2807/Algorithmic-Art/blob/main/Flow/capture-0279.jpg"  width="400"/> <img src="https://github.com/rab2807/Algorithmic-Art/blob/main/Flow/capture-0955.jpg"  width="400"/> 
 
 Lightning
 ---
