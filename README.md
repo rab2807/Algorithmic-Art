@@ -11,11 +11,11 @@ Lightning
 
 Pilgrimage
 ---
-Variation A: \
+Variation A: \ \
 ![](https://github.com/rab2807/Algorithmic-Art/blob/main/Pilgrimage/10760.jpg)
 
-Variation B: \
+Variation B: \ \
 ![](https://github.com/rab2807/Algorithmic-Art/blob/main/Pilgrimage/1466.jpg)
 
-Variation A: \
+Variation A: \ \
 ![](https://github.com/rab2807/Algorithmic-Art/blob/main/Pilgrimage/1563.jpg)
