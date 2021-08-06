@@ -12,3 +12,7 @@ Lightning
 Pilgrimage
 ---
 <img src="https://github.com/rab2807/Algorithmic-Art/blob/main/Pilgrimage/10760.jpg"  width="400"/>  <img src="https://github.com/rab2807/Algorithmic-Art/blob/main/Pilgrimage/2872.jpg"  width="400"/>  <img src="https://github.com/rab2807/Algorithmic-Art/blob/main/Pilgrimage/1563.jpg"  width="400"/>  <img src="https://github.com/rab2807/Algorithmic-Art/blob/main/Pilgrimage/1992.jpg"  width="400"/>
+
+Swirl
+---
+<img src="https://github.com/rab2807/Algorithmic-Art/blob/main/Swirl/1028.jpg"  width="400"/> <img src="https://github.com/rab2807/Algorithmic-Art/blob/main/Swirl/0821.jpg"  width="400"/> 
