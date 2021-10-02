@@ -17,7 +17,6 @@ void setup()
   bgcol = color(0);
   background(bgcol);
   strokeWeight(.5);
-  noLoop();
 
   angles = new float[width/unit][height/unit];
   setAngle();
